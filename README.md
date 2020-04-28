@@ -1,2 +1,2 @@
-# AngryBirdsv2
-project made on visual code studio. Status(v2)
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
